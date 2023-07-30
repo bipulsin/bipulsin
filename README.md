@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bipulsin
 - 👀 I’m interested in all thing software
-- 🌱 I’m currently learning Digital Transformation
-- 💞️ I’m looking to collaborate on Product management
+- 🌱 I’m currently mastering Digital Transformation
+- 💞️ I’m a seasoned Product manager
 - 📫 How to reach me bipulsin@gmail.com 
 
 <!---
